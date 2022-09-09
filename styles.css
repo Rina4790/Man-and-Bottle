@@ -1,0 +1,26 @@
+.wrapper {
+  margin: 40px;
+}
+
+.info {
+  height: 200px;
+}
+
+.buttons {
+  display: none;
+}
+
+.button {
+  width: 100px;
+  padding: 10px;
+  margin: 10px;
+}
+
+.visible {
+  display: block;
+}
+
+.person,
+.container {
+  display: flex;
+}
